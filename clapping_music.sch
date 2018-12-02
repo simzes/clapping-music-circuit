@@ -31,10 +31,9 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:clapping_music-cache
 EELAYER 25 0
 EELAYER END
-$Descr A1 33110 23386
+$Descr User 25500 12000
 encoding utf-8
 Sheet 1 1
 Title ""
