@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LS109
+D Double JK FlipFlop, Set & Reset
+K TTL JK
+$ENDCMP
+#
+#End Doc Library
